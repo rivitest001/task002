@@ -1,0 +1,16 @@
+{
+    "posts" : [
+        {
+            "id": 1, 
+            "activity": "Get stunned by the Great Pyramid of Giza"
+        },
+        {
+            "id": 2, 
+            "activity": "Walk along the Great Wall of China"
+        },
+        {
+            "id": 3, 
+            "activity": "Explore Petra"
+        }
+    ]
+}
